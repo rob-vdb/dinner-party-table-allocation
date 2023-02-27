@@ -1,7 +1,3 @@
-// Name: Robin van den Berg
-// This project is all my own work.
-// I have not knowingly allowed others to copy my work.
-
 package dtp;
 
 import java.io.File;
